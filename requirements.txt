@@ -1,0 +1,9 @@
+pandas
+wikipediaapi
+numpy
+re
+requests
+bs4
+spotipy
+time
+matplotlib

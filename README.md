@@ -1,0 +1,3 @@
+# Classical Music Composers and Their Popularity
+
+The aim of this project was to create a dataset of classical music composers spanning 1500 years of western classical music's history. Dates of birth and death, gender, and popularity were gathered using web APIs. The data served to explore the changes in composers' demographics across time, as well as their relative importance among today's audiences.
